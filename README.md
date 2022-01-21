@@ -1,4 +1,5 @@
 <h2> Hi, I'm Daniel <h2>
+ <p>I'm an Electrical Engineering student at the University of Waterloo</p>
 
 
 ## GitHub Stats
